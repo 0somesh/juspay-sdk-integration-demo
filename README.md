@@ -1,4 +1,4 @@
-# How to use this repo#
+# How to use this repo
 
 ### What is this repository for? ###
 
